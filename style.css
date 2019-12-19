@@ -1,0 +1,28 @@
+#container{
+    background: black;
+}
+
+#geel{
+    width: 100px;
+    background: yellow;
+    border-right: 5px solid black;
+    height: 300px;
+}
+
+#wit{
+    width: 100px;
+    background: white;
+    border-right: 5px solid black;
+    height: 300px;
+}
+    
+#rood{
+    width: 100px;
+    background: red;
+    height: 300px;
+}
+
+.block{
+    float: left;;
+}
+

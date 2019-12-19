@@ -1,0 +1,88 @@
+main{
+    height: 800px;
+    width: 800px;
+}
+
+#geel1{
+    width: 390px;
+    background: yellow;
+    border-right: 5px solid black;
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-bottom: 5px solid black;
+    height: 780px;
+}
+
+#wit1{
+    width: 95px;
+    background: white;
+    border-top: 5px solid black;
+    height: 125px;
+}
+    
+#rood1{
+    width: 95px;
+    background: red;
+    border-right: 5px solid black;
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    height: 195px;
+}
+
+#blauw1{
+    width: 95px;
+    background: blue;
+    border-right: 5px solid black;
+    border-top: 5px solid black;
+    height: 195px;
+}
+
+#wit2{
+    width: 95px;
+    background: white;
+    border-right: 5px solid black;
+    border-top: 5px solid black;
+    height: 195px;
+}
+    
+#zwart1{
+    width: 395px;
+    background: black;
+    border-right: 5px solid black;
+    height: 195px;
+}
+
+#blauw2{
+    width: 195px;
+    background: blue;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    height: 190px; 
+}
+
+#rood2{
+    width: 195px;
+    background:red;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    height: 190px; 
+}
+
+#wit3{
+    width: 195px;
+    background: white;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    height: 195px; 
+}
+
+#geel2{
+    width: 195px;
+    background: yellow;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    height: 195px; 
+}
+.block{
+    float: left;;
+}
